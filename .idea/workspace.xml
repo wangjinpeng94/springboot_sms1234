@@ -2,29 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a97f4b7-99ce-40b6-b001-c40be0bfd852" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_9_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_java8_9_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_0_0_M2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_0_0_M2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice_movie/src/main/java/cn/sm1234/movie/client/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_2_0_0_M8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_0_0_M8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_dashboard_2_0_0_M8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix_monitor/hystrix_monitor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix_monitor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix_monitor/src/main/java/cn/sm1234/hystrix/HystrixApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix_monitor/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_movie/src/main/java/cn/sm1234/movie/client/UserControllerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka_server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_server/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka_server/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_server/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-user/src/main/java/cn/sm1234/user/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-user/src/main/java/cn/sm1234/user/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-user/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-user/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-user/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-user/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-user/target/classes/cn/sm1234/user/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-user/target/classes/cn/sm1234/user/controller/UserController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice_movie/microservice_movie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/microservice_movie.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice_movie/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice_movie/src/main/java/cn/sm1234/movie/MovieApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/src/main/java/cn/sm1234/movie/MovieApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice_movie/src/main/java/cn/sm1234/movie/client/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/src/main/java/cn/sm1234/movie/client/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice_movie/src/main/java/cn/sm1234/movie/controller/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/src/main/java/cn/sm1234/movie/controller/MovieController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice_movie/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice_movie/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/target/classes/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice_movie/target/classes/cn/sm1234/movie/MovieApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/target/classes/cn/sm1234/movie/MovieApplication.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice_movie/target/classes/cn/sm1234/movie/controller/MovieController.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/target/classes/cn/sm1234/movie/controller/MovieController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +43,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -77,13 +86,26 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.MovieApplication">
+  <component name="RunManager" selected="Application.HystrixApplication">
     <configuration name="EurekaApplication" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.sm1234.eureka.EurekaApplication" />
       <module name="eureka_server" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.sm1234.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.sm1234.hystrix.HystrixApplication" />
+      <module name="hystrix_monitor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.sm1234.hystrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,9 +143,11 @@
       <item itemvalue="Application.EurekaApplication" />
       <item itemvalue="Application.MovieApplication" />
       <item itemvalue="Application.UserApplication" />
+      <item itemvalue="Application.HystrixApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HystrixApplication" />
         <item itemvalue="Application.MovieApplication" />
         <item itemvalue="Application.UserApplication" />
         <item itemvalue="Application.EurekaApplication" />
@@ -167,22 +191,34 @@
       <option name="project" value="LOCAL" />
       <updated>1578116896237</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="sm1234_1.0.2_202001051550">
+      <created>1578210627529</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578210627529</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sm1234_1.0.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="sm1234_1.0.1" />
+    <MESSAGE value="sm1234_1.0.2_202001051550" />
+    <option name="LAST_COMMIT_MESSAGE" value="sm1234_1.0.2_202001051550" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578194704378">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1578194704378" />
-    <state x="267" y="101" key="CommitChangelistDialog2" timestamp="1578116894206">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1578213983995">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="267" y="101" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578116894206" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1578213983995" />
+    <state x="267" y="101" key="CommitChangelistDialog2" timestamp="1578210624413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="267" y="101" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578210624413" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1578189812246">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -191,22 +227,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="589" y="325" width="382" height="173" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1578116389027" />
-    <state width="1493" height="218" key="GridCell.Tab.0.bottom" timestamp="1578210521726">
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom" timestamp="1578219459244">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578210521726" />
-    <state width="1493" height="218" key="GridCell.Tab.0.center" timestamp="1578210521726">
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578219459244" />
+    <state width="1493" height="195" key="GridCell.Tab.0.center" timestamp="1578219459243">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578210521726" />
-    <state width="1493" height="218" key="GridCell.Tab.0.left" timestamp="1578210521726">
+    <state width="1493" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578219459243" />
+    <state width="1493" height="195" key="GridCell.Tab.0.left" timestamp="1578219459242">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578210521726" />
-    <state width="1493" height="218" key="GridCell.Tab.0.right" timestamp="1578210521726">
+    <state width="1493" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578219459242" />
+    <state width="1493" height="195" key="GridCell.Tab.0.right" timestamp="1578219459243">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578210521726" />
+    <state width="1493" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578219459243" />
     <state x="408" y="110" width="738" height="604" key="NewModule_or_Project.wizard" timestamp="1578189839078">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -219,10 +255,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="510" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1578196558926" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1578117226996">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1578210646795">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1578117226996" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1578210646795" />
     <state x="454" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1578110475366">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -231,10 +267,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1578117324338" />
-    <state x="178" y="22" key="new project wizard" timestamp="1578110861772">
+    <state x="178" y="22" key="new project wizard" timestamp="1578218451479">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1578110861772" />
+    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1578218451479" />
     <state x="46" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1578197734564">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

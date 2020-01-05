@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka_server" />
         <module name="microservice-user" />
+        <module name="hystrix_monitor" />
         <module name="microservice_movie" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eureka_server" target="1.8" />
+      <module name="hystrix_monitor" target="1.8" />
       <module name="microservice-user" target="1.8" />
       <module name="microservice_movie" target="1.8" />
       <module name="sm1234_parent" target="1.8" />
@@ -21,6 +23,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="eureka_server" options="-parameters" />
+      <module name="hystrix_monitor" options="-parameters" />
       <module name="microservice-user" options="-parameters" />
       <module name="microservice_movie" options="-parameters" />
     </option>
