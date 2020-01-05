@@ -39,6 +39,7 @@ public class UserController {
      */
     @RequestMapping(value = "/{id}",method = RequestMethod.GET)
     public User findById(@PathVariable Integer id){
+        System.out.println("调用user服务111");
         return userService.findById(id);
     }
     /**
@@ -47,6 +48,7 @@ public class UserController {
     @RequestMapping(method = RequestMethod.POST)
 public String add(@RequestBody User user){
     userService.add(user);
+
     return "添加成功";
 }
 /**

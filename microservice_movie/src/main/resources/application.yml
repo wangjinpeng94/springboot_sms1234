@@ -3,6 +3,9 @@ server:
 spring:
   application:
     name: microservice-movie
+
+
+
 eureka:
   client:
     fetch-registry: true
@@ -11,3 +14,10 @@ eureka:
       defaultZone: http://127.0.0.1:8888/eureka
   instance:
     prefer-ip-address: true
+
+#修改ribbon的负载均衡算法
+#microservice-user:
+#  ribbon:
+#    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
+
+

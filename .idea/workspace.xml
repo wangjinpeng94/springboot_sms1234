@@ -1,14 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a97f4b7-99ce-40b6-b001-c40be0bfd852" name="Default Changelist" comment="" />
+    <list default="true" id="8a97f4b7-99ce-40b6-b001-c40be0bfd852" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_9_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_java8_9_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_0_0_M2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_0_0_M2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_movie/src/main/java/cn/sm1234/movie/client/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka_server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka_server/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_server/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-user/src/main/java/cn/sm1234/user/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-user/src/main/java/cn/sm1234/user/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-user/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-user/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-user/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-user/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-user/target/classes/cn/sm1234/user/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-user/target/classes/cn/sm1234/user/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice_movie/microservice_movie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/microservice_movie.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice_movie/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice_movie/src/main/java/cn/sm1234/movie/MovieApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/src/main/java/cn/sm1234/movie/MovieApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice_movie/src/main/java/cn/sm1234/movie/controller/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/src/main/java/cn/sm1234/movie/controller/MovieController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice_movie/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice_movie/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice_movie/target/classes/cn/sm1234/movie/MovieApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/target/classes/cn/sm1234/movie/MovieApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice_movie/target/classes/cn/sm1234/movie/controller/MovieController.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/target/classes/cn/sm1234/movie/controller/MovieController.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\idea_store\sm1234_parent\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -18,8 +58,14 @@
         <option name="userSettingsFile" value="F:\maven_install_position\apache-maven-3.6.1\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1VukfdGDv8CY3HDWBynBURtk84X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,7 +75,60 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Application.MovieApplication">
+    <configuration name="EurekaApplication" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.sm1234.eureka.EurekaApplication" />
+      <module name="eureka_server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.sm1234.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.sm1234.movie.MovieApplication" />
+      <module name="microservice_movie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.sm1234.movie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.sm1234.user.UserApplication" />
+      <module name="microservice-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.sm1234.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.EurekaApplication" />
+      <item itemvalue="Application.MovieApplication" />
+      <item itemvalue="Application.UserApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MovieApplication" />
+        <item itemvalue="Application.UserApplication" />
+        <item itemvalue="Application.EurekaApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -54,36 +153,91 @@
       <option name="presentableId" value="Default" />
       <updated>1578110471881</updated>
     </task>
+    <task id="LOCAL-00001" summary="sm1234_1.0.1">
+      <created>1578116819016</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578116819016</updated>
+    </task>
+    <task id="LOCAL-00002" summary="sm1234_1.0.1">
+      <created>1578116896237</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578116896237</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sm1234_1.0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="sm1234_1.0.1" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="267" y="101" key="CommitChangelistDialog2" timestamp="1578116815696">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578194704378">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="267" y="101" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578116815696" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1578116678314">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1578194704378" />
+    <state x="267" y="101" key="CommitChangelistDialog2" timestamp="1578116894206">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578116678314" />
+    <state x="267" y="101" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578116894206" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1578189812246">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578189812246" />
     <state x="589" y="325" width="382" height="173" key="Github.CreateGistDialog" timestamp="1578116389027">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="589" y="325" width="382" height="173" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1578116389027" />
-    <state x="408" y="110" key="NewModule_or_Project.wizard" timestamp="1578110838724">
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom" timestamp="1578210521726">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="408" y="110" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1578110838724" />
-    <state x="270" y="54" key="SettingsEditor" timestamp="1578110545454">
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578210521726" />
+    <state width="1493" height="218" key="GridCell.Tab.0.center" timestamp="1578210521726">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578110545454" />
+    <state width="1493" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578210521726" />
+    <state width="1493" height="218" key="GridCell.Tab.0.left" timestamp="1578210521726">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578210521726" />
+    <state width="1493" height="218" key="GridCell.Tab.0.right" timestamp="1578210521726">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578210521726" />
+    <state x="408" y="110" width="738" height="604" key="NewModule_or_Project.wizard" timestamp="1578189839078">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="110" width="738" height="604" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1578189839078" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1578117125020">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578117125020" />
+    <state width="510" height="446" key="SwitcherDM" timestamp="1578196558926">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="510" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1578196558926" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1578117226996">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1578117226996" />
     <state x="454" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1578110475366">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="454" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578110475366" />
+    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578117324338">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1578117324338" />
     <state x="178" y="22" key="new project wizard" timestamp="1578110861772">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1578110861772" />
+    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1578197734564">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578197734564" />
   </component>
 </project>

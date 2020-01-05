@@ -21,5 +21,9 @@ eureka:
       defaultZone: http://127.0.0.1:8888/eureka
     register-with-eureka: true #作为客户端需要注册到eureka
     fetch-registry: true #作为客户端需要从eureka获取注册信息
+#    registry-fetch-interval-seconds: 5 #
   instance:
     prefer-ip-address: true #优先使用该服务的ip地址注册到eureka 在生产环境建议给为true
+
+#    lease-expiration-duration-in-seconds: 90 #服务失效时间，默认为90秒
+#    lease-renewal-interval-in-seconds: 30 # 服务续约时间的间隔，默认为30秒

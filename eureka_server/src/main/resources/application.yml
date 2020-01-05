@@ -10,3 +10,16 @@ eureka:
     register-with-eureka: false #是否需要把该服务注册到eureka
     service-url: #暴露eureka注册地址
       defaultZone: http://127.0.0.1:${server.port}/eureka
+
+
+
+#    #集群配置
+#eureka:
+#  client:
+#    fetch-registry: true #是否需要从eureka获取注册信息
+#    register-with-eureka: true #是否需要把该服务注册到eureka
+#    service-url: #暴露eureka注册地址
+#      defaultZone: http://127.0.0.1:8888/eureka
+##  server:
+##    eviction-interval-timer-in-ms: 6000 #失效剔除时间
+##    enable-self-preservation: false
