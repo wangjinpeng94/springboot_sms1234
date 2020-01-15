@@ -2,37 +2,128 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a97f4b7-99ce-40b6-b001-c40be0bfd852" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_2_0_0_M8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_0_0_M8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_dashboard_2_0_0_M8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hystrix_monitor/hystrix_monitor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hystrix_monitor/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hystrix_monitor/src/main/java/cn/sm1234/hystrix/HystrixApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hystrix_monitor/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice_movie/src/main/java/cn/sm1234/movie/client/UserControllerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_kryo_shaded_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_agentproxy_connector_factory_0_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_agentproxy_core_0_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_agentproxy_pageant_0_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_agentproxy_sshagent_0_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_agentproxy_svnkit_trilead_ssh2_0_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_agentproxy_usocket_jna_0_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_agentproxy_usocket_nc_0_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_http_client_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_trilead_trilead_ssh2_1_0_0_build219.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_regnis_q_sequence_sequence_library_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_ipc_reactor_netty_0_7_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_platform_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_4_8_0_201706111038_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_bus_2_0_0_M7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_0_0_M9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_0_0_M9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_0_0_M8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_0_0_M9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_0_0_M8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_2_0_0_RC3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_rabbit_2_0_0_RC3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_rabbit_core_2_0_0_RC3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_amqp_5_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_core_5_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_jmx_5_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_tuple_1_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tuple_1_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webflux_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_tmatesoft_sqljet_sqljet_1_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_tmatesoft_svnkit_svnkit_1_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid10564.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid16088.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix_monitor/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix_monitor/target/classes/cn/sm1234/hystrix/HystrixApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-user/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-user/target/classes/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_config/microservice_config.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_config/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_config/src/main/java/cn/sm1234/config/ConfigApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_config/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_config/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_config/target/classes/cn/sm1234/config/ConfigApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_gateway/microservice_gateway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_gateway/src/main/java/cn/sm1234/gateway/DocumentationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_gateway/src/main/java/cn/sm1234/gateway/GateWayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_gateway/src/main/java/cn/sm1234/gateway/filter/AuthFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_gateway/src/main/java/cn/sm1234/gateway/filter/MyErrorFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_gateway/src/main/java/cn/sm1234/gateway/filter/Myfilter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_gateway/src/main/java/cn/sm1234/gateway/filter/Myfilter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_gateway/src/main/java/cn/sm1234/gateway/filter/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_gateway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_gateway/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_gateway/target/classes/cn/sm1234/gateway/DocumentationConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_gateway/target/classes/cn/sm1234/gateway/GateWayApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_gateway/target/classes/cn/sm1234/gateway/filter/AuthFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_gateway/target/classes/cn/sm1234/gateway/filter/MyErrorFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_gateway/target/classes/cn/sm1234/gateway/filter/Myfilter1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_gateway/target/classes/cn/sm1234/gateway/filter/Myfilter2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_gateway/target/classes/cn/sm1234/gateway/filter/Result.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_movie/src/main/java/cn/sm1234/movie/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_movie/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_movie/target/classes/META-INF/microservice_movie.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_movie/target/classes/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_movie/target/classes/cn/sm1234/movie/SwaggerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_movie/target/classes/cn/sm1234/movie/client/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice_movie/target/classes/cn/sm1234/movie/client/UserControllerImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replay_pid10564.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replay_pid16088.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-user/microservice-user.iml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-user/microservice-user.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-user/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-user/src/main/java/cn/sm1234/user/UserApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-user/src/main/java/cn/sm1234/user/UserApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-user/src/main/java/cn/sm1234/user/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-user/src/main/java/cn/sm1234/user/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-user/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-user/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-user/target/classes/cn/sm1234/user/UserApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-user/target/classes/cn/sm1234/user/UserApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-user/target/classes/cn/sm1234/user/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-user/target/classes/cn/sm1234/user/controller/UserController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice_movie/microservice_movie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/microservice_movie.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice_movie/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice_movie/src/main/java/cn/sm1234/movie/MovieApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/src/main/java/cn/sm1234/movie/MovieApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice_movie/src/main/java/cn/sm1234/movie/client/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/src/main/java/cn/sm1234/movie/client/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice_movie/src/main/java/cn/sm1234/movie/controller/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/src/main/java/cn/sm1234/movie/controller/MovieController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice_movie/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice_movie/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice_movie/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice_movie/target/classes/application.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice_movie/target/classes/cn/sm1234/movie/MovieApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/target/classes/cn/sm1234/movie/MovieApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice_movie/target/classes/cn/sm1234/movie/controller/MovieController.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservice_movie/target/classes/cn/sm1234/movie/controller/MovieController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,12 +172,33 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.HystrixApplication">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.sm1234.movie" />
+      <recent name="cn.sm1234.gateway" />
+      <recent name="cn.sm1234.gateway.filter" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.UserApplication">
+    <configuration name="ConfigApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.sm1234.config.ConfigApplication" />
+      <module name="microservice_config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.sm1234.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EurekaApplication" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.sm1234.eureka.EurekaApplication" />
       <module name="eureka_server" />
@@ -100,12 +212,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HystrixApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.sm1234.hystrix.HystrixApplication" />
-      <module name="hystrix_monitor" />
+    <configuration name="GateWayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.sm1234.gateway.GateWayApplication" />
+      <module name="microservice_gateway" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.sm1234.hystrix.*" />
+          <option name="PATTERN" value="cn.sm1234.gateway.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,14 +255,16 @@
       <item itemvalue="Application.EurekaApplication" />
       <item itemvalue="Application.MovieApplication" />
       <item itemvalue="Application.UserApplication" />
-      <item itemvalue="Application.HystrixApplication" />
+      <item itemvalue="Application.GateWayApplication" />
+      <item itemvalue="Application.ConfigApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HystrixApplication" />
-        <item itemvalue="Application.MovieApplication" />
         <item itemvalue="Application.UserApplication" />
+        <item itemvalue="Application.ConfigApplication" />
+        <item itemvalue="Application.MovieApplication" />
         <item itemvalue="Application.EurekaApplication" />
+        <item itemvalue="Application.GateWayApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -198,27 +312,35 @@
       <option name="project" value="LOCAL" />
       <updated>1578210627529</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="sm1234_1.0.2_202001051823">
+      <created>1578219805363</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578219805363</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sm1234_1.0.1" />
     <MESSAGE value="sm1234_1.0.2_202001051550" />
-    <option name="LAST_COMMIT_MESSAGE" value="sm1234_1.0.2_202001051550" />
+    <MESSAGE value="sm1234_1.0.2_202001051823" />
+    <option name="LAST_COMMIT_MESSAGE" value="sm1234_1.0.2_202001051823" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578194704378">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1578194704378" />
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1578213983995">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1578311584465">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1578213983995" />
-    <state x="267" y="101" key="CommitChangelistDialog2" timestamp="1578210624413">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1578311584465" />
+    <state x="267" y="101" key="CommitChangelistDialog2" timestamp="1578219801442">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="267" y="101" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578210624413" />
+    <state x="267" y="101" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578219801442" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1578189812246">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -227,22 +349,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="589" y="325" width="382" height="173" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1578116389027" />
-    <state width="1493" height="195" key="GridCell.Tab.0.bottom" timestamp="1578219459244">
+    <state width="1493" height="48" key="GridCell.Tab.0.bottom" timestamp="1579096924425">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578219459244" />
-    <state width="1493" height="195" key="GridCell.Tab.0.center" timestamp="1578219459243">
+    <state width="1493" height="48" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579096924425" />
+    <state width="1493" height="48" key="GridCell.Tab.0.center" timestamp="1579096924425">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578219459243" />
-    <state width="1493" height="195" key="GridCell.Tab.0.left" timestamp="1578219459242">
+    <state width="1493" height="48" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579096924425" />
+    <state width="1493" height="48" key="GridCell.Tab.0.left" timestamp="1579096924425">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578219459242" />
-    <state width="1493" height="195" key="GridCell.Tab.0.right" timestamp="1578219459243">
+    <state width="1493" height="48" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579096924425" />
+    <state width="1493" height="48" key="GridCell.Tab.0.right" timestamp="1579096924425">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578219459243" />
+    <state width="1493" height="48" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579096924425" />
+    <state width="1493" height="231" key="GridCell.Tab.1.bottom" timestamp="1578314185252">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578314185252" />
+    <state width="1493" height="231" key="GridCell.Tab.1.center" timestamp="1578314185252">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1578314185252" />
+    <state width="1493" height="231" key="GridCell.Tab.1.left" timestamp="1578314185252">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1578314185252" />
+    <state width="1493" height="231" key="GridCell.Tab.1.right" timestamp="1578314185252">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578314185252" />
     <state x="408" y="110" width="738" height="604" key="NewModule_or_Project.wizard" timestamp="1578189839078">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -255,25 +393,25 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="510" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1578196558926" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1578210646795">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1579128119076">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1578210646795" />
-    <state x="454" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1578110475366">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1579128119076" />
+    <state x="454" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1579089362469">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="454" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578110475366" />
+    <state x="454" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579089362469" />
     <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578117324338">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1578117324338" />
-    <state x="178" y="22" key="new project wizard" timestamp="1578218451479">
+    <state x="178" y="22" key="new project wizard" timestamp="1578397516670">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1578218451479" />
-    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1578197734564">
+    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1578397516670" />
+    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1578314238771">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578197734564" />
+    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578314238771" />
   </component>
 </project>

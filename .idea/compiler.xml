@@ -7,15 +7,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="eureka_server" />
-        <module name="microservice-user" />
-        <module name="hystrix_monitor" />
+        <module name="microservice_config" />
+        <module name="microservice_gateway" />
         <module name="microservice_movie" />
+        <module name="hystrix_monitor" />
+        <module name="microservice-user" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eureka_server" target="1.8" />
       <module name="hystrix_monitor" target="1.8" />
       <module name="microservice-user" target="1.8" />
+      <module name="microservice_config" target="1.8" />
+      <module name="microservice_gateway" target="1.8" />
       <module name="microservice_movie" target="1.8" />
       <module name="sm1234_parent" target="1.8" />
     </bytecodeTargetLevel>
@@ -25,6 +29,8 @@
       <module name="eureka_server" options="-parameters" />
       <module name="hystrix_monitor" options="-parameters" />
       <module name="microservice-user" options="-parameters" />
+      <module name="microservice_config" options="-parameters" />
+      <module name="microservice_gateway" options="-parameters" />
       <module name="microservice_movie" options="-parameters" />
     </option>
   </component>

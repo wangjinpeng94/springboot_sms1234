@@ -1,0 +1,31 @@
+server:
+  port: 12000
+#spring:
+#  application:
+#    name: microservice-config
+#  cloud:
+#    config:
+#      server:
+#        git:
+#          uri: https://github.com/wangjinpeng94/springcloud.git
+
+spring:
+  application:
+    name: microservice-config
+  profiles:
+    active: subversion
+  cloud:
+    config:
+      server:
+        svn:
+          uri: https://WIN-8VVA8IC4A4S:8443/svn/springcloud #svn仓库地址
+          username: eric #svn账户
+          password: eric #密码
+          default-label: trunk #svn分支名称
+  rabbitmq:
+    host: 192.168.2.11
+management: #暴露触发消息总线的地址
+  endpoints:
+    web:
+      exposure:
+        include: bus-refresh
